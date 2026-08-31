@@ -249,8 +249,8 @@ Nền tảng quản lý sản xuất & bán hàng cho tiệm bánh (e-commerce +
 
 ```mermaid
 timeline
-    title Từ cấp 3 đến giờ
-    2010-2022: Học chuyên tin - THPT Chuyên Thoại Ngọc Hầu
+    title Hành trình của mình
+    2019-2022: Học chuyên tin - THPT Chuyên Thoại Ngọc Hầu
     2022 : Vào PTIT HCM, chuyên ngành Phát triển ứng dụng Đa phương tiện
     2023-2024 : Bắt đầu học sâu Java · Spring Boot
     2025 : Sinh viên tiêu biểu PTITHCM
