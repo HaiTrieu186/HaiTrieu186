@@ -12,6 +12,10 @@
 <img src="https://img.shields.io/badge/birthday-29/10/2004-A8D5BA?style=flat-square&labelColor=2E5339"/>
 <img src="https://img.shields.io/badge/University-PTIT HCM-FC2123?style=flat-square&labelColor=2E5339"/>
 
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=800&color=2E5339&center=true&vCenter=true&width=600&height=40&lines=Backend+Developer+%C2%B7+Java+%2F+Spring+Boot;%C4%90ang+ng%C3%A2m+c%E1%BB%A9u+Devops%2C+Kafka%2C+API+Gateway;3h+chi%E1%BB%81u+r%E1%BB%93i%2C+pha+c%C3%A0+ph%C3%AA+ch%C6%B0a%3F"/>
+
 </div>
 
 <br/>
@@ -144,49 +148,92 @@ Nền tảng quản lý sản xuất & bán hàng cho tiệm bánh — làm hồ
 ## 🍃 Kỹ năng
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=java,spring,golang,react,js,postgres,mysql,redis,git,github&perline=10"/>
-</div>
 
-<table width="100%">
-<tr><td width="28%"><b>Ngôn ngữ chính</b></td><td>Java · Spring Boot · Spring Security · Spring JPA · JWT</td></tr>
-<tr><td><b>Mở rộng</b></td><td>Golang · JavaScript · HTML/CSS · ExpressJS · C++</td></tr>
-<tr><td><b>Microservices</b></td><td>Docker · Eureka · Kafka · Redis · API Gateway</td></tr>
-<tr><td><b>Database</b></td><td>PostgreSQL · MySQL</td></tr>
+<table>
+<tr>
+<td width="18%"><b>Ngôn ngữ chính</b></td>
+<td><img src="https://skillicons.dev/icons?i=java,spring&theme=light" height="32"/></td>
+</tr>
+<tr>
+<td><b>Mở rộng</b></td>
+<td><img src="https://skillicons.dev/icons?i=go,js,html,css,express,cpp&theme=light" height="32"/></td>
+</tr>
+<tr>
+<td><b>Microservices</b></td>
+<td><img src="https://skillicons.dev/icons?i=docker,kafka,redis&theme=light" height="32"/></td>
+</tr>
+<tr>
+<td><b>Database</b></td>
+<td><img src="https://skillicons.dev/icons?i=postgres,mysql&theme=light" height="32"/></td>
+</tr>
+<tr>
+<td><b>Tools</b></td>
+<td><img src="https://skillicons.dev/icons?i=git,github&theme=light" height="32"/></td>
+</tr>
 </table>
+
+<sub>Spring Security · Spring JPA · JWT · Eureka · API Gateway</sub>
+
+</div>
 
 <br/>
 
 ## 🌻 Vài cột mốc
 
-Đây là một vài cột mốc nho nhỏ mà mình đạt được, tuy không lớn nhưng khiến mình rất vui::
+Đây là một vài cột mốc nho nhỏ mà mình đạt được, tuy không lớn nhưng khiến mình rất vui:
 
-- Học bổng khuyến khích học tập tất cả học kì
-- Sinh viên tiêu biểu PTITHCM năm học 2024-2025
-- Giải 3 · PTIT Multimedia Competition
-- Giải Triển vọng · ITMC TechSolve - Ứng dụng Stari
-- Giải 3 · PTITHCM Startup - Ứng dụng OptiGo
+| | |
+|:---:|---|
+| 🎓 | Học bổng khuyến khích học tập tất cả học kì |
+| 🌟 | Sinh viên tiêu biểu PTITHCM năm học 2024-2025 |
+| 🥉 | Giải 3 · PTIT Multimedia Competition |
+| ✨ | Giải Triển vọng · ITMC TechSolve — Ứng dụng Stari |
+| 🥉 | Giải 3 · PTITHCM Startup — Ứng dụng OptiGo |
+
+<br/>
+
+## 🗺️ Hành trình
+
+```mermaid
+timeline
+    title Từ cấp 3 đến giờ
+    2022 : Vào PTIT HCM, chuyên ngành Phát triển ứng dụng Đa phương tiện
+    2023 : Bắt đầu học sâu Java · Spring Boot
+    2024 : Sinh viên tiêu biểu PTITHCM
+         : Giải 3 PTIT Multimedia Competition
+    2025 : Thực tập tại RikkeiSoft (HTHAC Food)
+         : Đồ án tốt nghiệp ShopWise (RAG Chatbot)
+    2026 : Chuẩn bị tốt nghiệp + rải CV
+```
+
+<br/>
+
+<div align="center">
+<img src="./assets/stream-divider.gif" width="100%" style="border-radius:6px"/>
+</div>
 
 <br/>
 
 ## 📊 Hoạt động
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=HaiTrieu186&show_icons=true&hide_border=true&theme=gruvbox"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HaiTrieu186&layout=compact&hide_border=true&theme=gruvbox"/>
 
-<br/>
+<img src="https://raw.githubusercontent.com/HaiTrieu186/HaiTrieu186/main/metrics.svg" width="100%"/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=HaiTrieu186&theme=gruvbox&no-frame=true&row=1&column=6" width="100%"/>
+<br/><br/>
 
-<br/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HaiTrieu186/HaiTrieu186/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HaiTrieu186/HaiTrieu186/output/github-contribution-grid-snake.svg"/>
+  <img alt="snake" src="https://raw.githubusercontent.com/HaiTrieu186/HaiTrieu186/output/github-contribution-grid-snake.svg" width="100%"/>
+</picture>
 
-<img src="https://raw.githubusercontent.com/HaiTrieu186/HaiTrieu186/output/github-contribution-grid-snake.svg"/>
 </div>
 
 <br/>
 
 <div align="center">
-<img src="./assets/stream-divider.gif" width="100%" style="border-radius:6px"/>
+<img src="./assets/study.gif" width="100%" style="border-radius:6px"/>
 </div>
 
 <br/>
