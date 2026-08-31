@@ -140,7 +140,7 @@ Nền tảng quản lý sản xuất & bán hàng cho tiệm bánh — làm hồ
 <div align="center">
 <img src="./assets/school.jpg" width="100%" style="border-radius:6px"/>
 <br/>
-<sub>Trường cấp 3. Lúc đó chưa biết code là gì, chỉ biết máy tính dùng để chơi game.</sub>
+<sub>Trường cấp 3. Đây là nơi đầu tiên mình biết đến code là gì. (Neva turn off)</sub>
 </div>
 
 <br/>
@@ -197,6 +197,7 @@ Nền tảng quản lý sản xuất & bán hàng cho tiệm bánh — làm hồ
 ```mermaid
 timeline
     title Từ cấp 3 đến giờ
+    2010-2022: Học chuyên tin - THPT Chuyên Thoại Ngọc Hầu
     2022 : Vào PTIT HCM, chuyên ngành Phát triển ứng dụng Đa phương tiện
     2023-2024 : Bắt đầu học sâu Java · Spring Boot
     2025 : Sinh viên tiêu biểu PTITHCM
