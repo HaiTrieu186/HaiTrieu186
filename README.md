@@ -257,7 +257,7 @@ timeline
          : Giải 3 PTIT Multimedia Competition
     2026 : Thực tập tại RikkeiSoft (HTHAC Food)
          : Giải 3 PTITHCM Startup
-         : Đồ án tốt nghiệp ShopWise (RAG Chatbot)
+         : Đồ án thực tập tốt nghiệp ShopWise (RAG Chatbot)
     2027 (Tương lai) : Chuẩn bị tốt nghiệp + làm đồ án tốt nghiệp
 ```
 
