@@ -47,109 +47,17 @@ Vừa kết thúc kì thực tập, hiện đang chuẩn bị làm đồ án t�
 
 <br/>
 
-## 🏆 Đồ án Thực tập Tốt nghiệp
+## 🍃 Kỹ năng & 🌻 Vài cột mốc
 
-<table width="100%">
+<table width="100%" cellspacing="20">
 <tr>
-<td width="100%" valign="top">
-
-### 🛒 ShopWise — Website bán đồ điện tử + Chatbot tư vấn RAG
-
-Website thương mại điện tử bán điện thoại/laptop/phụ kiện, tích hợp **chatbot tư vấn dùng RAG** — không trả lời bừa mà truy xuất đúng dữ liệu sản phẩm thật rồi mới sinh câu trả lời (Hybrid Search: dense embedding + BM25, có PhoBERT nhận diện ý định, off-topic gate để chặn câu hỏi ngoài phạm vi).
-
-Hệ thống tách 3 service độc lập: **Frontend** (Next.js 16 + React 19), **Backend nghiệp vụ** (Spring Boot 4 — phần mình phụ trách: Auth, Catalog, Cart, Order, Payment, Voucher...), **AI Service** (FastAPI + Gemini). Database dùng PostgreSQL/Supabase với `pgvector` để lưu vector luôn, không cần dựng thêm vector DB riêng.
-
-`Java · Spring Boot · Next.js · FastAPI · PostgreSQL · pgvector · Redis · JWT`
-
-[![Repo](https://img.shields.io/badge/GitHub-xem%20repo-2E5339?style=flat-square&logo=github&logoColor=white)](https://github.com/quocluongg/TTTN_D35)
-[![Demo](https://img.shields.io/badge/YouTube-xem%20demo-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=VBc23MJUVe4&t=31s)
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-## 💻 Dự án khác
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-**🖼️ Deblur Card — Computer Vision**
-`Python · NAFNet`
-Dùng NAFNet để khử mờ ảnh thẻ (chữ + hình), khôi phục lại độ nét để đọc được thông tin trên thẻ bị mờ.
-[![Repo](https://img.shields.io/badge/GitHub-xem%20repo-2E5339?style=flat-square&logo=github&logoColor=white)](https://github.com/HaiTrieu186/ThiGiacMayTinh_ELE14104_DeblurNAFNet)
-
-</td>
-<td width="50%" valign="top">
-
-**✅ Task Management — Backend**
-`JavaScript · Node.js`
-Backend cho hệ thống quản lý công việc kiểu Kanban, đồ án cuối kì môn Lập trình web.
-[![Repo](https://img.shields.io/badge/GitHub-xem%20repo-2E5339?style=flat-square&logo=github&logoColor=white)](https://github.com/HaiTrieu186/TaskManagement_Backend)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**📱 Mini App Zalo**
-`TypeScript`
-Mini app chạy trong Zalo, thử nghiệm nền tảng mini-app.
-[![Repo](https://img.shields.io/badge/GitHub-xem%20repo-2E5339?style=flat-square&logo=github&logoColor=white)](https://github.com/HaiTrieu186/MiniAppZalo)
-
-</td>
-<td width="50%" valign="top">
-
-**🥘 FoodNote App**
-`Java · Android · Room DB`
-App offline quản lý công thức nấu ăn, nguyên liệu, tự sinh danh sách mua sắm.
-[![Repo](https://img.shields.io/badge/GitHub-xem%20repo-2E5339?style=flat-square&logo=github&logoColor=white)](https://github.com/HaiTrieu186/FoodNote_LTUD_DauCuoiDiDong_N22DCPT103_N22DCPT104)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**🍰 HTHAC Food (Đồ án thực tập tại Rikkeisoft)**
-`Golang · GORM · PostgreSQL · React`
-Nền tảng quản lý sản xuất & bán hàng cho tiệm bánh — làm hồi thực tập ở RikkeiSoft.
-
-</td>
-<td width="50%" valign="top">
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-<sub>Còn hơn 90 repo khác trong <a href="https://github.com/HaiTrieu186?tab=repositories">tab Repositories</a>, đa số là bài tập/đồ án môn học.</sub>
-</div>
-
-<br/>
-
-<div align="center">
-<img src="./assets/stream-divider.gif" width="100%" style="border-radius:6px"/>
-</div>
-
-<br/>
-
-## 🏫 Nơi bắt đầu
-
-<div align="center">
-<img src="./assets/school.jpg" width="100%" style="border-radius:6px"/>
-<br/>
-<sub>Trường cấp 3. Đây là nơi đầu tiên mình biết đến code là gì. (Neva turn off)</sub>
-</div>
-
-<br/>
-
-## 🍃 Kỹ năng
+<td width="50%" valign="top" style="border: 1px solid #ccc; padding: 20px; border-radius: 6px;">
 
 <div align="center">
 
-<table>
+### 🍃 Kỹ năng
+
+<table style="margin: 0 auto;">
 <tr>
 <td width="18%"><b>Ngôn ngữ chính</b></td>
 <td><img src="https://skillicons.dev/icons?i=java,spring&theme=light" height="32"/></td>
@@ -176,11 +84,12 @@ Nền tảng quản lý sản xuất & bán hàng cho tiệm bánh — làm hồ
 
 </div>
 
-<br/>
+</td>
+<td width="50%" valign="top" style="border: 1px solid #ccc; padding: 20px; border-radius: 6px;">
 
-## 🌻 Vài cột mốc
+<div align="center">
 
-Đây là một vài cột mốc nho nhỏ mà mình đạt được, tuy không lớn nhưng khiến mình rất vui:
+### 🌻 Vài cột mốc
 
 | | |
 |:---:|---|
@@ -189,6 +98,150 @@ Nền tảng quản lý sản xuất & bán hàng cho tiệm bánh — làm hồ
 | 🥉 | Giải 3 · PTIT Multimedia Competition |
 | ✨ | Giải Triển vọng · ITMC TechSolve — Ứng dụng Stari |
 | 🥉 | Giải 3 · PTITHCM Startup — Ứng dụng OptiGo |
+
+</div>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 🏆 Đồ án Thực tập Tốt nghiệp
+
+<table width="100%">
+<tr>
+<td width="100%" valign="top">
+
+### 🛒 ShopWise — Website bán đồ điện tử + Chatbot tư vấn RAG
+
+Website thương mại điện tử bán điện thoại/laptop/phụ kiện, tích hợp **chatbot tư vấn dùng RAG** — không trả lời bừa mà truy xuất đúng dữ liệu sản phẩm thật rồi mới sinh câu trả lời (Hybrid Search: dense embedding + BM25, có PhoBERT nhận diện ý định, off-topic gate để chặn câu hỏi ngoài phạm vi).
+
+Hệ thống tách 3 service độc lập: **Frontend** (Next.js 16 + React 19), **Backend nghiệp vụ** (Spring Boot 4 — phần mình phụ trách: Auth, Catalog, Cart, Order, Payment, Voucher...), **AI Service** (FastAPI + Gemini). Database dùng PostgreSQL/Supabase với `pgvector` để lưu vector luôn, không cần dựng thêm vector DB riêng.
+
+<img src="https://img.shields.io/badge/Java-2E5339?style=flat-square&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/Spring%20Boot-2E5339?style=flat-square&logo=springboot&logoColor=white"/> <img src="https://img.shields.io/badge/Next.js-2E5339?style=flat-square&logo=nextdotjs&logoColor=white"/> <img src="https://img.shields.io/badge/React-2E5339?style=flat-square&logo=react&logoColor=white"/> <img src="https://img.shields.io/badge/FastAPI-2E5339?style=flat-square&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-2E5339?style=flat-square&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/pgvector-2E5339?style=flat-square&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/Redis-2E5339?style=flat-square&logo=redis&logoColor=white"/> <img src="https://img.shields.io/badge/JWT-2E5339?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
+
+<br/>
+
+[![Repo](https://img.shields.io/badge/GitHub-xem%20repo-2E5339?style=flat-square&logo=github&logoColor=white)](https://github.com/quocluongg/TTTN_D35)
+[![Demo](https://img.shields.io/badge/YouTube-xem%20demo-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=VBc23MJUVe4&t=31s)
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 💻 Dự án khác
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+**🖼️ Deblur Card — Computer Vision**
+
+Dùng NAFNet để khử mờ ảnh thẻ (chữ + hình), khôi phục lại độ nét để đọc được thông tin trên thẻ bị mờ.
+
+<img src="https://img.shields.io/badge/Python-2E5339?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/NAFNet-2E5339?style=flat-square&logo=pytorch&logoColor=white"/>
+
+[![Repo](https://img.shields.io/badge/GitHub-xem%20repo-2E5339?style=flat-square&logo=github&logoColor=white)](https://github.com/HaiTrieu186/ThiGiacMayTinh_ELE14104_DeblurNAFNet)
+
+</td>
+<td width="50%" valign="top">
+
+**✅ Task Management — Full-stack**
+
+App quản lý công việc/dự án kiểu Kanban cho cá nhân & team. **Vai trò:** thiết kế DB schema với Sequelize ORM, xây REST API bảo mật (JWT auth, bcrypt, rate limiting, Helmet), CRUD task/project, API thống kê, xuất báo cáo Excel.
+
+<img src="https://img.shields.io/badge/Node.js-2E5339?style=flat-square&logo=nodedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/Express-2E5339?style=flat-square&logo=express&logoColor=white"/> <img src="https://img.shields.io/badge/React-2E5339?style=flat-square&logo=react&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-2E5339?style=flat-square&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/Sequelize-2E5339?style=flat-square&logo=sequelize&logoColor=white"/> <img src="https://img.shields.io/badge/JWT-2E5339?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
+
+[![Repo](https://img.shields.io/badge/GitHub-xem%20repo-2E5339?style=flat-square&logo=github&logoColor=white)](https://github.com/HaiTrieu186/TaskManagement_Backend)
+[![Demo](https://img.shields.io/badge/YouTube-xem%20demo-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=k1yAy4xRh7I)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**🥘 FoodNote App — Android**
+
+App offline quản lý công thức nấu ăn, "tủ lạnh ảo" theo dõi nguyên liệu, tự sinh danh sách mua sắm. **Vai trò:** thiết kế database local (Room) với quan hệ công thức–nguyên liệu, dựng UI chính (Fragments, ViewPager2, RecyclerView adapters) & luồng điều hướng.
+
+<img src="https://img.shields.io/badge/Java-2E5339?style=flat-square&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/Android-2E5339?style=flat-square&logo=android&logoColor=white"/> <img src="https://img.shields.io/badge/Room%20DB-2E5339?style=flat-square&logo=sqlite&logoColor=white"/>
+
+[![Repo](https://img.shields.io/badge/GitHub-xem%20repo-2E5339?style=flat-square&logo=github&logoColor=white)](https://github.com/HaiTrieu186/FoodNote_LTUD_DauCuoiDiDong_N22DCPT103_N22DCPT104)
+[![Demo](https://img.shields.io/badge/YouTube-xem%20demo-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=Pw7URW8of1w)
+
+</td>
+<td width="50%" valign="top">
+
+**📋 Internship Management System (IMS) — RESTful API**
+
+Backend số hóa & tự động hóa quy trình quản lý thực tập, kết nối 3 vai trò **Admin · Mentor · Student**. Quy mô **40+ RESTful API**: quản lý người dùng/phân quyền (RBAC), thiết lập giai đoạn thực tập, cấu hình động các đợt đánh giá với **trọng số tùy chỉnh**, phân công mentor–sinh viên, chấm điểm & nhận xét chi tiết. **Vai trò:** thiết kế toàn bộ DB/entity, kiến trúc Controller–Service–Repository, xây RESTful API bảo mật bằng JWT + Spring Security.
+
+<img src="https://img.shields.io/badge/Java%2017-2E5339?style=flat-square&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/Spring%20Boot%203-2E5339?style=flat-square&logo=springboot&logoColor=white"/> <img src="https://img.shields.io/badge/Spring%20Security-2E5339?style=flat-square&logo=springsecurity&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-2E5339?style=flat-square&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/Hibernate%20%2F%20JPA-2E5339?style=flat-square&logo=hibernate&logoColor=white"/> <img src="https://img.shields.io/badge/JWT-2E5339?style=flat-square&logo=jsonwebtokens&logoColor=white"/> <img src="https://img.shields.io/badge/MapStruct-2E5339?style=flat-square"/> <img src="https://img.shields.io/badge/Gradle-2E5339?style=flat-square&logo=gradle&logoColor=white"/>
+
+[![Repo](https://img.shields.io/badge/GitHub-xem%20repo-2E5339?style=flat-square&logo=github&logoColor=white)](https://github.com/HaiTrieu186/KetThucMon_IOC-BE103-_JavaWebService_PhamNguyenHaiTrieu)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**🌍 VR Earth — WebXR 3D Simulation**
+
+Mô phỏng Trái Đất trong không gian vũ trụ dạng 3D tương tác, chạy ngay trên trình duyệt web và **tương thích Meta Quest 3** qua WebXR (đeo kính vào là bay lượn quanh Trái Đất luôn). Đồ án môn Phát triển ứng dụng Thực tại ảo.
+
+<img src="https://img.shields.io/badge/React-2E5339?style=flat-square&logo=react&logoColor=white"/> <img src="https://img.shields.io/badge/Three.js-2E5339?style=flat-square&logo=threedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/React%20Three%20Fiber-2E5339?style=flat-square"/> <img src="https://img.shields.io/badge/WebXR-2E5339?style=flat-square"/> <img src="https://img.shields.io/badge/Vite-2E5339?style=flat-square&logo=vite&logoColor=white"/>
+
+[![Repo](https://img.shields.io/badge/GitHub-xem%20repo-2E5339?style=flat-square&logo=github&logoColor=white)](https://github.com/HaiTrieu186/PhatTrienUngDungThucTaiAo_MUL14129_D22CQPTUD01-N_Nhom2_GK)
+[![Live Demo](https://img.shields.io/badge/Vercel-xem%20demo-2E5339?style=flat-square&logo=vercel&logoColor=white)](https://phat-trien-ung-dung-thuc-tai-ao-mul.vercel.app/)
+
+</td>
+<td width="50%" valign="top">
+
+**📱 Mini App Zalo**
+
+Mini app chạy trong Zalo, thử nghiệm nền tảng mini-app.
+
+<img src="https://img.shields.io/badge/TypeScript-2E5339?style=flat-square&logo=typescript&logoColor=white"/>
+
+[![Repo](https://img.shields.io/badge/GitHub-xem%20repo-2E5339?style=flat-square&logo=github&logoColor=white)](https://github.com/HaiTrieu186/MiniAppZalo)
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
+**🍰 HTHAC Food — Đồ án thực tập tại RikkeiSoft**
+
+Nền tảng quản lý sản xuất & bán hàng cho tiệm bánh (e-commerce + quản lý sản xuất). **Vai trò:** phụ trách backend module Inventory, Inventory Request, Recipe, Ingredient, Stock, Production, cùng 1 phần Order/Voucher/COD payment; có tham gia UI/UX & frontend.
+
+<img src="https://img.shields.io/badge/Golang-2E5339?style=flat-square&logo=go&logoColor=white"/> <img src="https://img.shields.io/badge/Fiber-2E5339?style=flat-square&logo=go&logoColor=white"/> <img src="https://img.shields.io/badge/GORM-2E5339?style=flat-square&logo=go&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-2E5339?style=flat-square&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/Redis-2E5339?style=flat-square&logo=redis&logoColor=white"/> <img src="https://img.shields.io/badge/Astro%2FReact-2E5339?style=flat-square&logo=astro&logoColor=white"/>
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+<sub>Còn hơn 90 repo khác trong <a href="https://github.com/HaiTrieu186?tab=repositories">tab Repositories</a>, đa số là bài tập/đồ án môn học.</sub>
+</div>
+
+<br/>
+
+<div align="center">
+<img src="./assets/stream-divider.gif" width="100%" style="border-radius:6px"/>
+</div>
+
+<br/>
+
+## 🏫 Nơi bắt đầu
+
+<div align="center">
+<img src="./assets/school.jpg" width="100%" style="border-radius:6px"/>
+<br/>
+<sub>Trường cấp 3. Đây là nơi đầu tiên mình biết đến code là gì. (Neva turn off)</sub>
+</div>
 
 <br/>
 
