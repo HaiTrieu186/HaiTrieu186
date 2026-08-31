@@ -264,7 +264,7 @@ timeline
 <br/>
 
 <div align="center">
-<img src="./assets/stream-divider.gif" width="100%" style="border-radius:6px"/>
+<img src="./assets/chill.gif" width="80%" style="border-radius:6px"/>
 </div>
 
 <br/>
@@ -305,6 +305,6 @@ timeline
 
 <i>Ghé qua thì để lại lời chào, mình rep hơi chậm nhưng chắc chắn thấy.</i>
 
-<img src="./assets/chill-hill.gif" width="60%"/>
+<img src="./assets/end.gif" width="70%"/>
 
 </div>
