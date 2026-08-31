@@ -47,7 +47,7 @@ Vừa kết thúc kì thực tập, hiện đang chuẩn bị làm đồ án t�
 
 <br/>
 
-## 🍃 Kỹ năng & 🌻 Vài cột mốc
+## 🍃 Kỹ năng & thành tựu
 
 <table width="100%" cellspacing="20">
 <tr>
