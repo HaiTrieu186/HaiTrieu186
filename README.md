@@ -198,12 +198,13 @@ Nền tảng quản lý sản xuất & bán hàng cho tiệm bánh — làm hồ
 timeline
     title Từ cấp 3 đến giờ
     2022 : Vào PTIT HCM, chuyên ngành Phát triển ứng dụng Đa phương tiện
-    2023 : Bắt đầu học sâu Java · Spring Boot
-    2024 : Sinh viên tiêu biểu PTITHCM
+    2023-2024 : Bắt đầu học sâu Java · Spring Boot
+    2025 : Sinh viên tiêu biểu PTITHCM
          : Giải 3 PTIT Multimedia Competition
-    2025 : Thực tập tại RikkeiSoft (HTHAC Food)
+    2026 : Thực tập tại RikkeiSoft (HTHAC Food)
+         : Giải 3 PTITHCM Startup
          : Đồ án tốt nghiệp ShopWise (RAG Chatbot)
-    2026 : Chuẩn bị tốt nghiệp + rải CV
+    2027 (Tương lai) : Chuẩn bị tốt nghiệp + làm đồ án tốt nghiệp
 ```
 
 <br/>
